@@ -11,9 +11,9 @@ At this stage, there are no public production releases or versioned software dis
 
 ##  Reporting a Vulnerability
 
-If you believe you have identified a security vulnerability related to the PoWV Protocol, please report it responsibly. 
+The project accepts private reports of suspected vulnerabilities through the official security contact below. 
 
-When submitting a report, please include:
+A report typically includes the following information.
 * **Description:** A detailed description of the security issue.
 * **Potential Impact:** The theoretical or practical impact on the protocol.
 * **Reproduction Steps:** Steps to reproduce the vulnerability (if applicable).
@@ -31,7 +31,7 @@ For general support (not vulnerability reports): powv.protocol@proton.me
 
 ##  Disclosure Policy
 
-Please do not disclose vulnerabilities publicly prior to coordinated review. The PoWV Protocol adheres to responsible disclosure principles. 
+Security reports remain private until coordinated review. 
 
 Valid reports will be reviewed and evaluated based on:
 * Technical severity
@@ -39,7 +39,7 @@ Valid reports will be reviewed and evaluated based on:
 * Protocol-level impact
 * Infrastructure risk
 
-Our goal is to acknowledge and assess valid reports within a reasonable timeframe.
+The project aims to acknowledge and assess valid reports within a reasonable timeframe.
 
 ---
 
@@ -54,7 +54,5 @@ Security considerations and vulnerability assessments include, but are not limit
 * Infrastructure trust boundaries
 
 ---
-
-Thank you for helping improve the security of the PoWV Protocol.  
 
 *Copyright © 2026 **Gabriel de Almeida Santos Silva**. All rights reserved.*
