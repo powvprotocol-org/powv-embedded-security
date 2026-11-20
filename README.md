@@ -31,7 +31,7 @@ For general support (not vulnerability reports): powv.protocol@proton.me
 
 ##  Disclosure Policy
 
-Security reports remain private until coordinated review. 
+Reporters are asked not to disclose vulnerabilities publicly before coordinated review. Security reports remain private during that review. 
 
 Valid reports will be reviewed and evaluated based on:
 * Technical severity
