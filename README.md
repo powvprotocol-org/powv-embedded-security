@@ -45,9 +45,9 @@ Our goal is to acknowledge and assess valid reports within a reasonable timefram
 
 Security considerations and vulnerability assessments include, but are not limited to:
 * Core protocol architecture
-* Cryptographic mechanisms & Hardware root-of-trust
-* Consensus logic verification
-* Smart contract vulnerabilities
+* Cryptographic mechanisms
+* Hardware root-of-trust (research; no hardware-backed identity is deployed)
+* Any future consensus or smart-contract components (none are deployed at this time)
 * Oracle attack vectors & telemetry tampering
 * Infrastructure trust boundaries
 
