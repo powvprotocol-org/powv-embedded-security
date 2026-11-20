@@ -21,7 +21,9 @@ When submitting a report, please include:
 
 ### Contact Information
 Security reports must be sent directly to:  
- **powv.protocol@proton.me** / **gabriel@powvprotocol.org**
+ **gabriel@powvprotocol.com** (official channel)
+
+For general support (not vulnerability reports): powv.protocol@proton.me
 
 *(Temporary contact channels may be utilized until dedicated security infrastructure is fully established).*
 
